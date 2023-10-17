@@ -1,2 +1,2 @@
-# dsci-100-project_template
+# DSCI-100-Project 
 Template project repository for Daniel huang
