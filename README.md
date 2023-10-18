@@ -33,5 +33,5 @@ A benchmark for researchers to classify birds by bone structure.
 - Examine individual bone lengths.
 
 ## Contributors:
-- [Jiakang Huang]
+- Jiakang Huang
 
